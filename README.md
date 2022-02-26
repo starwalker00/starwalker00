@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+:cyclone: All around French developer currently focused on Web3 front and back.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recently onboarded many people to Lens Protocol through [Lens Feed](https://lens-feed.vercel.app/).
+
+📫 Reach to me on [discord: szutok#9349](https://discordapp.com/users/861691533623164988) or [twitter](https://twitter.com/AAWalksUP/).
+
 <!--
 **starwalker00/starwalker00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
